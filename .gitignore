@@ -103,3 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
+
+/home/liuzipeng/user_workspace_sda/liuzipeng/leedl-tutorial/Homework/HW4_Self-Attention/data/
+/home/liuzipeng/user_workspace_sda/liuzipeng/leedl-tutorial/Homework/HW4_Self-Attention/Dataset/
